@@ -1,0 +1,16 @@
+.orange{
+    background-color: rgb(130, 168, 240);
+}
+
+.blue{
+    background-color: rgb(151, 235, 210);
+}
+.red{
+    background-color: rgb(204, 34, 12);
+}
+.yellow{
+    background-color: rgb(204, 170, 17);
+}
+.bold{
+    font-weight: bold;
+}
